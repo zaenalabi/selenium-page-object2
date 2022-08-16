@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-16T17:01:03 WIB" name="Default suite" finished-at="2022-08-16T17:01:19 WIB" duration-ms="16385">
+    <groups>
+    </groups>
+    <test started-at="2022-08-16T17:01:03 WIB" name="Default test" finished-at="2022-08-16T17:01:19 WIB" duration-ms="16385">
+      <class name="com.juaracoding.pageobject.TestLoginSiloam">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.pageobject.TestLoginSiloam@1622f1b]" started-at="2022-08-16T17:01:03 WIB" name="setUp" finished-at="2022-08-16T17:01:14 WIB" duration-ms="11113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.pageobject.TestLoginSiloam@1622f1b]" started-at="2022-08-16T17:01:14 WIB" name="pageObject" finished-at="2022-08-16T17:01:14 WIB" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="testInvalidLogin()[pri:0, instance:com.juaracoding.pageobject.TestLoginSiloam@1622f1b]" started-at="2022-08-16T17:01:14 WIB" name="testInvalidLogin" finished-at="2022-08-16T17:01:15 WIB" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.juaracoding.pageobject.TestLoginSiloam@1622f1b]" started-at="2022-08-16T17:01:15 WIB" name="closeBrowser" finished-at="2022-08-16T17:01:19 WIB" duration-ms="4310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.juaracoding.pageobject.TestLoginSiloam -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
